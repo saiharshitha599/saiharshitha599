@@ -1,16 +1,23 @@
-### Hi there 👋
+# front end course
+# heading 1 
+## heading 2
+### heading 3
+#### heading 4
+##### heading 5
+###### heading 6
+  
+ *bold*
+ **italic**
+ ***bold and italic***
 
-<!--
-**saiharshitha599/saiharshitha599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# unordered list 
+* fruits
+  * mangoes 
+  * bananas 
+  * apples 
+# ordered list 
+1. Alphabets
+2. Digits 
+    1. Whole number 
+    2. Integers 
+ ![bts](
