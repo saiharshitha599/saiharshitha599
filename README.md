@@ -22,3 +22,10 @@
     2. Integers 
 
  ![bts](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9TT-DkUsN0QtFNw6tR736ZtsZ4KZIToRMUA&usqp=CAU)
+  ~~~python
+  Def fun():
+    Print("hi")
+  ~~~
+ Table 1 | Table 2
+  -------|--------
+ Table body 1 | table body 2
